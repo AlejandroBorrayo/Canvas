@@ -25,6 +25,6 @@ ctx.beginPath()
 	// FIN DE POSICIÓN
 	// lineTo(x,y)
 	ctx.lineTo(450,50)
-	// EJECUCIÓN DE PINTADO
+	// EJECUCIÓN DE PINTAD
 	ctx.stroke()
 ctx.closePath()
